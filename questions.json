@@ -1,0 +1,443 @@
+{
+    "heading": "Assessment_1",
+    "topics": [
+      {
+        "heading": "Place value",
+        "questions": [
+          {
+            "questionNo": 1,
+            "question": "What number is shown by the place value model?<br><img width='70%' src='./assests/images/question/1.png'>",
+            "options": [
+              { "text": "4275" },
+              { "text": "4274" },
+              { "text": "4284" },
+              { "text": "4285" }
+            ],
+            "answer": 3
+          },
+          {
+            "questionNo": 2,
+            "question": "Which place value model shows 2876?",
+            "options": [
+              { "image": "./assests/images/option/1.png" },
+              { "image": "./assests/images/option/2.png" }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 3,
+            "question": "How much of 2876 is circled?<br><img width='90%' src='./assests/images/question/2.png'>",
+            "options": [
+              { "text": "7000" },
+              { "text": "700" },
+              { "text": "70" },
+              { "text": "7" }
+            ],
+            "answer": 2
+          },
+          {
+            "questionNo": 4,
+            "question": "Emily saw a book with the number 6754328 embossed on the cover. Where should the commas be placed?",
+            "options": [
+              { "text": "6,754,328" },
+              { "text": "67,543,28" },
+              { "text": "675,432,8" },
+              { "text": "675,43,28" }
+            ],
+            "answer": 0
+          },
+          {
+            "questionNo": 5,
+            "question": "Hazel discovers a glowing crystal labeled with the number 734320. What is the place value of the digit 3?",
+            "options": [
+              { "text": "3 millions" },
+              { "text": "3 ten thousands" },
+              { "text": "3 hundred thousands" },
+              { "text": "3 thousands" }
+            ],
+            "answer": 1
+          }
+        ]
+        
+        
+      },
+      {
+        "heading": "Place Value Chart",
+        "questions": [
+          {
+            "questionNo": 6,
+            "question": "Which words make this statement true?<br><img width='60%' src='./assests/images/question/3.png'>",
+            "options": [
+              { "text": "<" },
+              { "text": ">" },
+              { "text": "=" }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 7,
+            "question": "Which sign makes the statement true?<br><img width='60%' src='./assests/images/question/4.png'>",
+            "options": [
+              { "text": ">" },
+              { "text": "<" },
+              { "text": "=" }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 8,
+            "question": "Charles need your help in arranging the numbers from largest to smallest:<br><img width='60%' src='./assests/images/question/5.png'>",
+            "options": [
+              { "image": "./assests/images/option/1.jpg" },
+              { "image": "./assests/images/option/2.jpg" },
+              { "image": "./assests/images/option/3.jpg" },
+              { "image": "./assests/images/option/4.jpg" }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 9,
+            "question": "Sophie collected beads with the following digits.<br><img width='60%' src='./assests/images/question/6.png'><br> What is the smallest number she can form?",
+            "options": [
+              { "text": "23678" },
+              { "text": "23768" },
+              { "text": "26378" },
+              { "text": "23867" }
+            ],
+            "answer": 0
+          },
+          {
+            "questionNo": 10,
+            "question": "Liam is organizing cards with the digits.<br><img width='60%' src='./assests/images/question/7.png'><br> Which of the following is the greatest number he can form?",
+            "options": [
+              { "text": "95341" },
+              { "text": "95431" },
+              { "text": "94153" },
+              { "text": "95143" }
+            ],
+            "answer": 1
+          }
+        ]
+               
+        
+      },
+      {
+        "heading": "Expanded and standard form",
+        "questions": [
+          {
+            "questionNo": 11,
+            "question": "The total number of pearls in a chest is written on it.<br><img width='35%' src='./assests/images/question/8.png'><br> How would we write this number in expanded form?",
+            "options": [
+              { "text": "7,000 + 400 + 80 + 2" },
+              { "text": "7,000 + 800 + 40 + 2" },
+              { "text": "7,000 + 840 + 2" },
+              { "text": "7,000 + 80 + 400 + 2" }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 12,
+            "question": "A large shipment of apples weighs 5,274,693 grams. What is the expanded form of this number?",
+            "options": [
+              { "text": "5,000,000 + 200,000 + 70,000 + 4,000 + 600 + 90 + 3" },
+              { "text": "500,000 + 20,000 + 7,000 + 4,000 + 600 + 90 + 3" },
+              { "text": "5,000,000 + 270,000 + 4,000 + 600 + 90 + 3" },
+              { "text": "5,000,000 + 200,000 + 70,000 + 6,000 + 900 + 30" }
+            ],
+            "answer": 0
+          },
+          {
+            "questionNo": 13,
+            "question": "A bakery produced 600,000 + 30,000 + 5,000 + 700 + 20 + 1 cupcakes in a year. What is the standard form of this number?",
+            "options": [
+              { "text": "6,357,021" },
+              { "text": "635,721" },
+              { "text": "603,571" },
+              { "text": "6,035,721" }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 14,
+            "question": "Which number fits in the missing blank?<br><img width='70%' src='./assests/images/question/9.png'>",
+            "options": [
+              { "text": "8,000" },
+              { "text": "400" },
+              { "text": "800" },
+              { "text": "80" }
+            ],
+            "answer": 0
+          },
+          {
+            "questionNo": 15,
+            "question": "A warehouse stores 275,438 boxes. What is the correct expanded form of this number?",
+            "options": [
+              { "text": "200,000 + 70,000 + 5,000 + 400 + 30 + 8" },
+              { "text": "200,000 + 7,000 + 50,000 + 400 + 30 + 8" },
+              { "text": "2,000,000 + 70,000 + 5,000 + 400 + 30 + 8" },
+              { "text": "20,000 + 70,000 + 5,000 + 400 + 30 + 8" }
+            ],
+            "answer": 0
+          }
+        ]
+        
+         
+      },
+      {
+        "heading": "Decimal place value chart",
+        "questions": [
+          {
+            "questionNo": 16,
+            "question": "In 831.06, in which place is the 3?",
+            "options": [
+              { "text": "hundreds" },
+              { "text": "tens" },
+              { "text": "ones" },
+              { "text": "hundredths" }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 17,
+            "question": "In 314.5, in which place is the 1?",
+            "options": [
+              { "text": "tens" },
+              { "text": "tenths" },
+              { "text": "ones" },
+              { "text": "hundreds" }
+            ],
+            "answer": 0
+          },
+          {
+            "questionNo": 18,
+            "question": "Which sign makes the statement true?<br><img width='60%' src='./assests/images/question/10.png'>",
+            "options": [
+              { "text": ">" },
+              { "text": "<" },
+              { "text": "=" }
+            ],
+            "answer": 0
+          },
+          {
+            "questionNo": 19,
+            "question": "Which one of the following is the same as 1.1?",
+            "options": [
+              { "text": "1.01" },
+              { "text": "1.10" },
+              { "text": "1.11" },
+              { "text": "1.00" }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 20,
+            "question": "Put the following numbers in order from largest to smallest:<br><img width='80%' src='./assests/images/question/11.png'>",
+            "options": [
+              { "text": "3.22, 1.67, 0.51, 0.452, 0.45" },
+              { "text": "3.22, 1.67, 0.51, 0.45, 0.452" },
+              { "text": "1.67, 0.51, 3.22, 0.45, 0.452" },
+              { "text": "3.22, 0.51, 1.67, 0.452, 0.45" }
+            ],
+            "answer": 0
+          }
+        ]
+        
+        
+      },
+      {
+        "heading": "Estimation and rounding off",
+        "questions": [
+          {
+            "questionNo": 21,
+            "question": "What is 742 rounded to the nearest hundred?<br><img width='80%' src='./assests/images/question/12.png'>",
+            "options": [
+              { "text": "700" },
+              { "text": "750" },
+              { "text": "800" },
+              { "text": "900" }
+            ],
+            "answer": 0
+          },
+          {
+            "questionNo": 22,
+            "question": "What is 1.74 rounded to the nearest tenth?",
+            "options": [
+              { "text": "1.73" },
+              { "text": "1.8" },
+              { "text": "1.75" },
+              { "text": "1.7" }
+            ],
+            "answer": 3
+          },
+          {
+            "questionNo": 23,
+            "question": "What is 1.51 rounded to the nearest whole number?",
+            "options": [
+              { "text": "2" },
+              { "text": "3" },
+              { "text": "1" },
+              { "text": "5" }
+            ],
+            "answer": 0
+          },
+          {
+            "questionNo": 24,
+            "question": "A car was listed at $47,324. What is 47,324 rounded to the nearest hundred?",
+            "options": [
+              { "text": "47,300" },
+              { "text": "47,400" },
+              { "text": "47,350" },
+              { "text": "47,000" }
+            ],
+            "answer": 0
+          },
+          {
+            "questionNo": 25,
+            "question": "A book has 1,234 pages. What is 1,234 rounded to the nearest hundred?",
+            "options": [
+              { "text": "1,230" },
+              { "text": "1,300" },
+              { "text": "1,250" },
+              { "text": "1,200" }
+            ],
+            "answer": 3
+          }
+        ]    
+      },
+      {
+        "heading": "Addition",
+        "questions": [
+          {
+            "questionNo": 26,
+            "question": "Add and fill the answer in the blank box.",
+            "inputBox": [
+              { "operand": "60" },
+              { "operand": "+" },
+              { "operand": "30" },
+              { "operand": "=" },
+              { "operand": "" }
+            ],
+            "answer": ["90"]
+          },
+          {
+            "questionNo": 27,
+            "question": "Add and fill the answer in the blank box.",
+            "inputBox": [
+              { "operand": "56" },
+              { "operand": "+" },
+              { "operand": "20" },
+              { "operand": "=" },
+              { "operand": "" }
+            ],
+            "answer": ["76"]
+          },
+            {
+              "questionNo": 28,
+              "question": "Complete the pattern: <br><img width='45%' src='./assests/images/question/21.png'>",
+              "options": [
+                { "text": "a=8, b=80, c=800, d=8000" },
+                { "text": "a=8, b=800, c=80, d=8000" },
+                { "text": "a=80, b=8, c=800, d=8000" },
+                { "text": "a=800, b=80, c=8, d=8000" }
+              ],
+              "answer": 0
+          },
+          {
+            "questionNo": 29,
+            "question": "Add the given 3 digit numbers and fill the answer in the blank boxes.<br><img width='45%' src='./assests/images/question/15.png'>",
+            "options": [
+              { "text": "7859" },
+              { "text": "7869" },
+              { "text": "7889" },
+              { "text": "7879" }
+            ],
+            "answer": 3
+          },
+          {
+            "questionNo": 30,
+            "question": "Add all the given three numbers together and fill the answer in the blank boxes.<br><img width='35%' src='./assests/images/question/16.png'>",
+            "options": [
+              { "text": "592" },
+              { "text": "582" },
+              { "text": "572" },
+              { "text": "595" }
+            ],
+            "answer": 0
+          }
+
+          
+        ]
+        
+        
+        
+        
+      },
+      {
+        "heading": "Subtraction",
+        "questions": [
+          {
+            "questionNo": 31,
+            "question": "Subtract and fill the answer in the blank box.",
+            "inputBox": [
+              { "operand": "600" },
+              { "operand": "-" },
+              { "operand": "200" },
+              { "operand": "=" },
+              { "operand": "" }
+            ],
+            "answer": ["400"]
+          },
+          {
+            "questionNo": 32,
+            "question": "Complete the pattern: <br><img width='45%' src='./assests/images/question/22.png'>",
+            "options": [
+              { "text": "a=7, b=70, c=700, d=7000" },
+                { "text": "a=7, b=700, c=70, d=7000" },
+                { "text": "a=70, b=8, c=700, d=7000" },
+                { "text": "a=700, b=70, c=7, d=7000" }
+            ],
+            "answer": 0
+          },
+          {
+            "questionNo": 33,
+            "question": "Subtract the given 3 digit numbers and fill the answer in the blank boxes.<br><img width='35%' src='./assests/images/question/18.png'>",
+            "options": [
+              { "text": "561" },
+              { "text": "582" },
+              { "text": "571" },
+              { "text": "461" }
+            ],
+            "answer": 0
+          },
+          {
+            "questionNo": 34,
+            "question": "Subtract the given 3 digit numbers and fill the answer in the blank boxes.<br><img width='35%' src='./assests/images/question/19.png'>",
+            "options": [
+              { "text": "632" },
+              { "text": "635" },
+              { "text": "625" },
+              { "text": "535" }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 35,
+            "question": "Subtract and fill in the missing boxes:<br><img width='45%' src='./assests/images/question/20.png'>",
+            "options": [
+              { "text": "4483" },
+              { "text": "5483" },
+              { "text": "4383" },
+              { "text": "5383" }
+            ],
+            "answer": 0
+          }
+          
+        ]
+        
+        
+        
+        
+      }
+    ]
+  }
+  
