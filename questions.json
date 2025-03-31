@@ -93,7 +93,7 @@
               { "image": "./assests/images/option/3.jpg" },
               { "image": "./assests/images/option/4.jpg" }
             ],
-            "answer": 1
+            "answer": 0
           },
           {
             "questionNo": 9,
